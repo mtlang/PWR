@@ -1,0 +1,23 @@
+Part	Manufacturer	Part Number	Quantity	Price	Attribute 1 Name	Attribute 1 Value	Attribute 2 Name	Attribute 2 Value	Attribute 3 Name	Attribute 3 Value	Footprint
+Cboot	Kemet	C1812C273J5GACTU	1	0.67	Cap	27nF	ESR	0Ohm	Total Derated Cap	2.7E-8F	1812
+Ccomp	Kemet	C0805C102K5GACTU	1	0.02	Cap	1nF	ESR	0Ohm	Total Derated Cap	1.0E-9F	805
+Chf	Kemet	C0805C220K3GACTU	1	0.01	Cap	22pF	ESR	0Ohm	Total Derated Cap	2.2E-11F	805
+Cin	TDK	C3216X7R2A105K160AA	2	0.12	Cap	1uF	ESR	4.575mOhm	Total Derated Cap	8.8E-7F	1206_180
+Cout	Panasonic	35SVPF22M	3	0.45	Cap	22uF	ESR	0.035Ohm	Total Derated Cap	6.6E-5F	CAPSMT_62_F61
+Cout1	TDK	C2012X7R1H225K125AC	1	0.13	Cap	2.2uF	ESR	3.66mOhm	Total Derated Cap	2.2E-6F	805
+Cramp	Samsung Electro-Mechanics	CL21C621JBCNNNC	1	0.01	Cap	620pF	ESR	0Ohm	Total Derated Cap	6.2E-10F	805
+Css	Samsung Electro-Mechanics	CL21C822JBFNNNE	1	0.02	Cap	8.2nF	ESR	0Ohm	Total Derated Cap	8.2E-9F	805
+Cvcc	Panasonic	ECPU1C684MA5	1	0.22	Cap	680nF	ESR	0Ohm	Total Derated Cap	6.8E-7F	1206
+D1	SMC Diode Solutions	SBRD10200TR	1	0.11	VFatIo	0.95V	Io	10A	VRRM	200V	DPAK
+L1	Coilcraft	SER2915L-103KL	1	1.88	L	10uH	DCR	1.5mOhm	IDC	17.6A	SER2915L
+M1	Texas Instruments	CSD19534Q5A	1	0.34	VdsMax	100V	IdsMax	50A	Rdson	0.014Ohm	TRANS_NexFET_Q5A
+Rcomp	Panasonic	ERJ-6ENF5622V	1	0.01	Resistance	56.2kOhm	Tolerance	1%	Power	0.125W	805
+Rfbb	Panasonic	ERJ-6ENF1691V	1	0.01	Resistance	1.69kOhm	Tolerance	1%	Power	0.125W	805
+Rfbt	Yageo America	RT0805BRD0732KL	1	0.053	Resistance	32kOhm	Tolerance	0.10%	Power	0.125W	805
+Rramp	Panasonic	ERJ-6ENF7322V	1	0.01	Resistance	73.2kOhm	Tolerance	1%	Power	0.125W	805
+Rsns	Susumu Co Ltd	PRL1632-R008-F-T1	1	0.19	Resistance	8mOhm	Tolerance	1%	Power	1W	612
+Rt	Panasonic	ERJ-6ENF1072V	1	0.01	Resistance	10.7kOhm	Tolerance	1%	Power	0.125W	805
+Ruv1	Vishay-Dale	CRCW08051K37FKEA	1	0.01	Resistance	1.37kOhm	Tolerance	1%	Power	0.125W	805
+Ruv2	Panasonic	ERJ-6ENF4992V	1	0.01	Resistance	49.9kOhm	Tolerance	1%	Power	0.125W	805
+U1	Texas Instruments	LM5088QMHX-1/NOPB	1	1.65							MXA16A
+Cdthr	AVX	08053C104JAZ2A	1	0.09	Cap	100nF	ESR	0Ohm	Total Derated Cap	1.0E-7F	805
