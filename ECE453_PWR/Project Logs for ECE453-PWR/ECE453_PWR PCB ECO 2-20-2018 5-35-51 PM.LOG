@@ -1,0 +1,99 @@
+Added Component: Designator=C300(CAP_1207_POL)
+Added Component: Designator=C301(CAP_1207_POL)
+Added Component: Designator=Cboot(CAP_1812)
+Added Component: Designator=Ccomp(CAP_0805)
+Added Component: Designator=Cdthr(CAP_0805)
+Added Component: Designator=Chf(CAP_0805)
+Added Component: Designator=Cin(CAP_1207)
+Added Component: Designator=Cout2(CAP_0805)
+Added Component: Designator=Cramp(CAP_0805)
+Added Component: Designator=Css(CAP_0805)
+Added Component: Designator=Cvcc(CAP_1207)
+Added Component: Designator=D1(DIO_SCHOTT_MBRF10200)
+Added Component: Designator=J201_56V(TERM_2Pin)
+Added Component: Designator=J202_24V(TERM_2Pin)
+Added Component: Designator=J203_24V(TERM_2Pin)
+Added Component: Designator=J204_24V(TERM_2Pin)
+Added Component: Designator=J301_5V(TERM_2Pin)
+Added Component: Designator=J302_5V(TERM_2Pin)
+Added Component: Designator=J303_5V(TERM_2Pin)
+Added Component: Designator=L1(IND_SER2900)
+Added Component: Designator=Rcomp(RES_0805)
+Added Component: Designator=Rfbb(RES_0805)
+Added Component: Designator=Rramp(RES_0805)
+Added Component: Designator=Rt(RES_0805)
+Added Component: Designator=Ruv1(RES_0805)
+Added Component: Designator=Ruv2(RES_0805)
+Added Component: Designator=TP_5V(TP-SMC-1206)
+Added Component: Designator=TP_24V(TP-SMC-1206)
+Added Component: Designator=U301(BUCK_5V_OUT_FIXED)
+Added Pin To Net: NetName=GND Pin=C300-2
+Added Pin To Net: NetName=GND Pin=C301-2
+Added Pin To Net: NetName=GND Pin=Cdthr-2
+Added Pin To Net: NetName=GND Pin=Cin-2
+Added Pin To Net: NetName=GND Pin=Cout2-2
+Added Pin To Net: NetName=GND Pin=Cramp-2
+Added Pin To Net: NetName=GND Pin=Css-2
+Added Pin To Net: NetName=GND Pin=Cvcc-2
+Added Pin To Net: NetName=GND Pin=Rfbb-2
+Added Pin To Net: NetName=GND Pin=Rt-2
+Added Pin To Net: NetName=GND Pin=Ruv1-2
+Added Pin To Net: NetName=GND Pin=U301-1
+Added Pin To Net: NetName=5V VOUT Pin=C301-1
+Added Pin To Net: NetName=5V VOUT Pin=J301_5V-1
+Added Pin To Net: NetName=5V VOUT Pin=J302_5V-1
+Added Pin To Net: NetName=5V VOUT Pin=J303_5V-1
+Added Pin To Net: NetName=5V VOUT Pin=TP_5V-1
+Added Pin To Net: NetName=5V VOUT Pin=U301-2
+Added Pin To Net: NetName=5V VOUT Pin=U301-2
+Added Net: Name=5V VOUT
+Added Pin To Net: NetName=24V Pin=C300-1
+Added Pin To Net: NetName=24V Pin=Cout2-1
+Added Pin To Net: NetName=24V Pin=L1-2
+Added Pin To Net: NetName=24V Pin=TP_24V-1
+Added Pin To Net: NetName=24V Pin=U301-3
+Added Net: Name=24V
+Added Pin To Net: NetName=56V VIN Pin=Cin-1
+Added Pin To Net: NetName=56V VIN Pin=J201_56V-1
+Added Pin To Net: NetName=56V VIN Pin=Ruv2-1
+Added Net: Name=56V VIN
+Added Pin To Net: NetName=BOOT Pin=Cboot-1
+Added Net: Name=BOOT
+Added Pin To Net: NetName=COMP_INT Pin=Ccomp-1
+Added Pin To Net: NetName=COMP_INT Pin=Rcomp-2
+Added Net: Name=COMP_INT
+Added Pin To Net: NetName=COMP Pin=Ccomp-2
+Added Pin To Net: NetName=COMP Pin=Chf-2
+Added Net: Name=COMP
+Added Pin To Net: NetName=CS Pin=D1-2
+Added Net: Name=CS
+Added Pin To Net: NetName=DITH Pin=Cdthr-1
+Added Net: Name=DITH
+Added Pin To Net: NetName=EN Pin=Ruv1-1
+Added Pin To Net: NetName=EN Pin=Ruv2-2
+Added Net: Name=EN
+Added Pin To Net: NetName=FB Pin=Chf-1
+Added Pin To Net: NetName=FB Pin=Rcomp-1
+Added Pin To Net: NetName=FB Pin=Rfbb-1
+Added Net: Name=FB
+Added Net: Name=HG
+Added Pin To Net: NetName=RAMP Pin=Cramp-1
+Added Pin To Net: NetName=RAMP Pin=Rramp-2
+Added Net: Name=RAMP
+Added Pin To Net: NetName=RT Pin=Rt-1
+Added Net: Name=RT
+Added Pin To Net: NetName=SS Pin=Css-1
+Added Net: Name=SS
+Added Pin To Net: NetName=SW Pin=Cboot-2
+Added Pin To Net: NetName=SW Pin=D1-1
+Added Pin To Net: NetName=SW Pin=L1-1
+Added Net: Name=SW
+Added Pin To Net: NetName=VCC Pin=Cvcc-1
+Added Pin To Net: NetName=VCC Pin=Rramp-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VOUT Pin=J202_24V-1
+Added Pin To Net: NetName=VOUT Pin=J203_24V-1
+Added Pin To Net: NetName=VOUT Pin=J204_24V-1
+Added Net: Name=VOUT
+Added Class: Name=03 24V-5V
+Added Room: Name=03 24V-5V

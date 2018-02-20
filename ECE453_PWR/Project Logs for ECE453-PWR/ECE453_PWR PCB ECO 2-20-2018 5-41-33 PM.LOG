@@ -1,0 +1,33 @@
+Added Component: Designator=Cout1(CAP_RAD_35SVPF22M)
+Added Component: Designator=M1(MOS_CSD19534Q5A)
+Added Component: Designator=Rsns(RES_1206)
+Added Component: Designator=U1(BUCK_LM5088)
+Added Pin To Net: NetName=24V Pin=Cout1-1
+Added Pin To Net: NetName=GND Pin=Cout1-2
+Added Pin To Net: NetName=SW Pin=M1-1
+Added Pin To Net: NetName=SW Pin=M1-2
+Added Pin To Net: NetName=SW Pin=M1-3
+Added Pin To Net: NetName=HG Pin=M1-4
+Added Pin To Net: NetName=56V VIN Pin=M1-5
+Added Pin To Net: NetName=56V VIN Pin=M1-6
+Added Pin To Net: NetName=56V VIN Pin=M1-7
+Added Pin To Net: NetName=56V VIN Pin=M1-8
+Added Pin To Net: NetName=CS Pin=Rsns-1
+Added Pin To Net: NetName=GND Pin=Rsns-2
+Added Pin To Net: NetName=56V VIN Pin=U1-1
+Added Pin To Net: NetName=EN Pin=U1-2
+Added Pin To Net: NetName=SS Pin=U1-3
+Added Pin To Net: NetName=RAMP Pin=U1-4
+Added Pin To Net: NetName=RT Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=COMP Pin=U1-7
+Added Pin To Net: NetName=FB Pin=U1-8
+Added Pin To Net: NetName=24V Pin=U1-9
+Added Pin To Net: NetName=DITH Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=CS Pin=U1-12
+Added Pin To Net: NetName=SW Pin=U1-13
+Added Pin To Net: NetName=HG Pin=U1-14
+Added Pin To Net: NetName=BOOT Pin=U1-15
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
